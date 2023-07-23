@@ -1,3 +1,5 @@
+Look at this blog for more details: https://codevoweb.com/build-crud-app-with-reactjs-and-redux-toolkit/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
